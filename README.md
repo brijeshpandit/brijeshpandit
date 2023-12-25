@@ -27,7 +27,7 @@
 
 <br>
 
-<table align='center'>
+<table align='center' width='100%'>
   <tr>
     <td valign="middle" align="center" style="font-weight: bold;" width="35%">
       Backend
