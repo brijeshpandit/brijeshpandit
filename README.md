@@ -29,7 +29,7 @@
 
 <table align='center'>
   <tr>
-    <td valign="middle" align="center" style="font-weight: bold;">
+    <td valign="middle" align="center" style="font-weight: bold;" width="35%">
       Backend
     </td>
     <td valign="top" width=100%>
@@ -42,7 +42,7 @@
   </tr>
 
   <tr>
-    <td valign="middle" align="center" style="font-weight: bold;">
+    <td valign="middle" align="center" style="font-weight: bold;" width="35%">
       Data
     </td>
     <td valign="top" width=100%>
@@ -58,7 +58,7 @@
   </tr>
 
   <tr>
-    <td valign="middle" align="center" style="font-weight: bold;">
+    <td valign="middle" align="center" style="font-weight: bold;" width="35%">
       Frontend & Design
     </td>
     <td valign="top" width=100%>
