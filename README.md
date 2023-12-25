@@ -1,27 +1,75 @@
-<h1 align="center">Hi 👋, I'm Brijesh Pandit</h1>
-<h3 align="center">Civil Engineer, India 🇮🇳</h3>
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am Brijesh Pandit
+        </samp>
+</h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshpandit&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshpandit" /> </p>
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                I'm a tech enthusiast from India 
+                <br>
+                Diving deep into the world of data science and also keen on sustainable innovations</b>
+                <br>
+                <br>
+        </samp>
+        <!-- Technologies -->
+        <!-- JavaScript -->
+        <!-- <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a> -->
+</p>
 
 - 🔭 I’m currently working on [Custom Telegram URL Shortener Bot](https://github.com/brijeshpandit/tg-url-shortener)
 
 - 🌱 I’m currently learning **Data Science**
 
-<p align="left">
-</p>
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin-right: 10px;"></a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right: 10px;"></a> 
-</p>
+<table>
+  <tr>
+    <td valign="middle" align="center" style="font-weight: bold;" width=13%>
+      Backend
+    </td>
+    <td valign="top" width=100%>
+      <div align="center">
+        <img style="margin: 10px" src="icons/python-svgrepo-com.svg" alt="Python" height="50"/>
+        <img style="margin: 10px" src="icons/mysql-logo-svgrepo-com.svg" alt="MySQL" height="50"/>
+        <img style="margin: 10px" src="icons/Git.svg" alt="Git" height="50"/>
+      </div>
+    </td>
+  </tr>
 
+  <tr>
+    <td valign="middle" align="center" style="font-weight: bold;" width=13%>
+      Data
+    </td>
+    <td valign="top" width=100%>
+      <div align="center">
+        <img style="margin: 10px" src="icons/numpy-svgrepo-com.svg" alt="Numpy" height="50"/>
+        <img style="margin: 10px" src="icons/Pandas.svg" alt="Pandas" height="50"/>
+        <img style="margin: 10px" src="icons/Matplotlib.svg" alt="Matplotlib" height="50"/>
+        <img style="margin: 10px" src="icons/Xarray_Logo_RGB_Final.svg" alt="X-array" height="50"/>
+        <img style="margin: 10px" src="icons/seaborn-icon.svg" alt="Seaborn" height="50"/>
+        <img style="margin: 10px" src="icons/scikit-learn.svg" alt="scikit-learn" height="50"/>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle" align="center" style="font-weight: bold;" width=13%>
+      Frontend & Design
+    </td>
+    <td valign="top" width=100%>
+      <div align="center">
+        <img style="margin: 10px" src="icons/HTML5.svg" alt="HTML" height="50"/>
+        <img style="margin: 10px" src="icons/CSS3.svg" alt="CSS" height="50"/>
+        <img style="margin: 10px" src="icons/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50"/>
+        <img style="margin: 10px" src="icons/adobe-illustrator-svgrepo-com.svg" alt="Illustrator" height="50"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
