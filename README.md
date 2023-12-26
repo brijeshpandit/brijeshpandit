@@ -22,30 +22,6 @@
 
 <br>
 
-<!-- Title -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am Brijesh Pandit
-        </samp>
-</h3>
-<br>
-
-<p align="center">
-        <!-- Intro -->
-        <samp>
-                I'm a tech enthusiast from India 
-                <br>
-                Diving deep into the world of data science and also keen on sustainable innovations</b>
-                <br>
-                <br>
-        </samp>
-</p>
-
-- 🔭 I’m currently working on [Custom Telegram URL Shortener Bot](https://github.com/brijeshpandit/tg-url-shortener)
-
-- 🌱 I’m currently learning **Data Science**
-
-<br>
-
 <h4> Languages and Tools </h4>
 
 <p align="left"> 
